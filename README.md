@@ -19,7 +19,7 @@ I’m passionate about learning new technologies and building meaningful solutio
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adeen-amir)  
-[🔗 Portfolio]((https://portfolio-adeen08s-projects.vercel.app))
+[🔗 Portfolio]([https://portfolio-adeen08s-projects.vercel.app])
 
 ---
 
@@ -62,4 +62,4 @@ I’m passionate about learning new technologies and building meaningful solutio
 ### 📍 Location
 
 🇵🇰 Pakistan  
-🌐 [adeen08.github.io](https://portfolio-adeen08s-projects.vercel.app)
+🌐 [Portfolio](https://portfolio-adeen08s-projects.vercel.app)
